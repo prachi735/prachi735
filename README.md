@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on data analysis and competetive programming.
-- 🌱 I’m currently learning competetive programming.
-- 👯 I’m looking to collaborate on data analysis projects and competetive programming problem.
-- 🤔 I’m looking for help with learning new algorithms.
+- 🔭 I’m currently working on data analysis and machine learning.
+- 🌱 I’m currently learning deep learning.
+- 👯 I’m looking to collaborate on data analysis projects and ML/DL problems.
 - 💬 Ask me about analysis projects.
 - 📫 How to reach me: email: prachi735@gmail.com .
 
