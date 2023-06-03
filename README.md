@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on data analysis and machine learning.
-- 🌱 I’m currently learning deep learning.
+- 🔭 I’m currently working on data analysis.
+- 🌱 I’m currently learning machine learning.
 - 👯 I’m looking to collaborate on data analysis projects and ML/DL problems.
 - 💬 Ask me about analysis projects.
 - 📫 How to reach me: email: prachi735@gmail.com .
